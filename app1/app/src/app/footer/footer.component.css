@@ -1,0 +1,10 @@
+.footer{
+    position:absolute;
+    background-color:teal;
+    bottom:0;
+    height:10%;
+    width: 100%;
+}
+.footer h1{
+    text-align:center;
+}

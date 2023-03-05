@@ -1,0 +1,11 @@
+.header{
+    height:10%;
+    width:100%;
+    background-color:blue;
+    position: absolute;
+    top: 0;
+
+}
+.header h1{
+    text-align:center;
+}
